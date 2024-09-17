@@ -18,8 +18,7 @@ The Security+ exam it is really tricky, but if you don't have technical knowledg
 
 You will learn 90% of all topics required for the exam with this course.
 
-> [!CAUTION]
-> SKIP THE MOCK EXAM AT THE END OF THE COURSE DURING THIS STEP!!!
+⚠ SKIP THE MOCK EXAM AT THE END OF THE COURSE DURING THIS STEP!!!
 
 ### 2. CompTIA Security+ SY0-701: The Ultimate Practice Exam 2024
 
