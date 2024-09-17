@@ -73,3 +73,11 @@ Before every day of practical exam I did read all the notes to make sure the kno
 👋 I hope it help you so you also pass the CompTIA Security+ exam. Have a great study.
 
 Regards.
+
+## 🤝 Contribute with the Project
+
+Want to be part of the project? Click [HERE](CONTRIBUTING.md) and read how to contribute.
+
+## 📝 License
+
+This project is under license. See the [LICENSE](LICENSE.md) file for more details.
