@@ -42,3 +42,36 @@ Now it is time to you really understand the questions and learn the importance o
 | Youtube  | [Security+ SY0-701 Practice Exam and Walkthrough - Part 1](https://bit.ly/4gt6C5C)           | Cyber James      | Playlist 2 |
 | Youtube  | [Security+ SY0-701 Practice Exam and Walkthrough - Part 2](https://bit.ly/4e6lKE8)           | Cyber James      | Playlist 2 |
 | Youtube  | [Free Security+ (SY0-701) Practice Exam - Qs & As with Explanations](https://bit.ly/3TtkmmI) | darkbirdtech8023 | Video Solo |
+
+## 🚀 Time to action!
+
+Now it is time to make real Practice Exam **WITHOUT** guidance, I recommend these 2 courses (actually you will only need to buy 1 more):
+
+| Platform | Course/Content Name                                                                  | Created by                     | Comments                                      |
+|:---------| :------------------------------------------------------------------------------------| :------------------------------| :---------------------------------------------|
+| Udemy    | [CompTIA Security+ SY0-701 Full Course, Labs, and Study Plan](https://bit.ly/3Xwr4tq)| TIA Education, Andrew Ramdayal | I didn't watch the Labs section of the course |
+| Udemy    | [CompTIA Security+ (SY0-701) Practice Exams](https://bit.ly/3B1Rlbs)                 | TIA Education, Andrew Ramdayal |                                               |
+
+### 1. CompTIA Security+ SY0-701 Full Course, Labs, and Study Plan
+
+Do the Mock exam at the end of the course (course suggested on the first step).
+
+### 2. CompTIA Security+ (SY0-701) Practice Exams
+
+6 more practical exams like the previous mentioned.
+
+## 📝 Notes
+
+During all this journey I learned a lot and I wrote some [Notes](notes.pdf)📝.
+
+<embed src="notes.pdf" type="application/pdf">
+
+Before every day of practical exam I did read all the notes to make sure the knowledge "stuck" on my mind 🧠.
+
+## End...
+
+:warning: To make sure you pay less, wait for best [Udemy](https://www.udemy.com/) deals.
+
+👋 I hope it help you so you also pass the CompTIA Security+ exam. Have a great study.
+
+Regards.
