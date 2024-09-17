@@ -62,7 +62,7 @@ Do the Mock exam at the end of the course (course suggested on the first step).
 
 ## 📝 Notes
 
-During all this journey I learned a lot and I wrote some [Notes](./notes/notes.pdf)📝.
+During all this journey I learned a lot and I wrote some [Notes](./notes/README.md)📝.
 
 Before every day of practical exam I did read all the notes to make sure the knowledge "stuck" on my mind 🧠.
 
