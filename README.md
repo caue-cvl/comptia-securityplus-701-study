@@ -18,7 +18,7 @@ The Security+ exam it is really tricky, but if you don't have technical knowledg
 
 You will learn 90% of all topics required for the exam with this course.
 
-⚠ SKIP THE MOCK EXAM AT THE END OF THE COURSE DURING THIS STEP!!!
+❗ SKIP THE MOCK EXAM AT THE END OF THE COURSE DURING THIS STEP!!!
 
 ### 2. CompTIA Security+ SY0-701: The Ultimate Practice Exam 2024
 
@@ -30,3 +30,15 @@ Some moments you will have doubts and the platform that most helped me was ChatG
 `What is the difference between MOU and MOA for Comptia Security+ 701?`
 
 ## 🧠 Understand the context of the questions
+
+Now it is time to you really understand the questions and learn the importance of the keywords, these are the best videos that helped me to interpret the questions and possible answers getting the importance of **BEST**, **MOST** and **LEAST** that you will see a lot during the exam:
+
+| Platform | Course/Content Name                                                                          | Created by       | Comments   |
+|:---------| :--------------------------------------------------------------------------------------------| :----------------| :----------|
+| Youtube  | [CompTIA Security+ Practice Exam Part 1](https://bit.ly/3TvGlcJ)                             | Cyber James      | Playlist 1 |
+| Youtube  | [CompTIA Security+ Practice Exam Part 2](https://bit.ly/4gngmy1)                             | Cyber James      | Playlist 1 |
+| Youtube  | [CompTIA Security+ Practice Exam Part 3](https://bit.ly/3TuglhY)                             | Cyber James      | Playlist 1 |
+| Youtube  | [CompTIA Security+ Practice Exam Part 4](https://bit.ly/4eko3nv)                             | Cyber James      | Playlist 1 |
+| Youtube  | [Security+ SY0-701 Practice Exam and Walkthrough - Part 1](https://bit.ly/4gt6C5C)           | Cyber James      | Playlist 2 |
+| Youtube  | [Security+ SY0-701 Practice Exam and Walkthrough - Part 2](https://bit.ly/4e6lKE8)           | Cyber James      | Playlist 2 |
+| Youtube  | [Free Security+ (SY0-701) Practice Exam - Qs & As with Explanations](https://bit.ly/3TtkmmI) | darkbirdtech8023 | Video Solo |
